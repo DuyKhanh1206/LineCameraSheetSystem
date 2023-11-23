@@ -1,0 +1,866 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LineCameraSheetSystem</RootNamespace>
+    <AssemblyName>LineCameraSheetSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\..\..\..\..\fujitaSheet\exe\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;x64;HAL13</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>..\..\..\..\..\..\..\..\fujitaSheet\exe\</OutputPath>
+    <DefineConstants>TRACE;x64;HAL13</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Adjustment|x86'">
+    <OutputPath>bin\x86\Adjustment\</OutputPath>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Adjustment|AnyCPU'">
+    <OutputPath>bin\Adjustment\</OutputPath>
+    <DefineConstants>ADJUSTMENT_FORM x64</DefineConstants>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>FdSheet.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DALSA.SaperaLT.SapClassBasic, Version=8.40.0.1937, Culture=neutral, PublicKeyToken=4d8604101dcb6b58, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Program Files\Teledyne DALSA\Sapera\Components\NET\Bin\DALSA.SaperaLT.SapClassBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="halcondotnet, Version=18.11.3.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\MVTec\HALCON-20.11-Steady\bin\dotnet35\halcondotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="PylonC.NET, Version=4.2.0.0, Culture=neutral, PublicKeyToken=a77e8471c5919d5a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Program Files\Basler\pylon 5\Development\Assemblies\PylonC.Net\PylonC.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ViewROI, Version=1.0.7180.25163, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\fujitaSheet\exe\ViewROI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\FormMove.cs">
+      <Link>keyboard\FormMove.cs</Link>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\frmMain.cs">
+      <Link>keyboard\frmMain.cs</Link>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\frmMain.designer.cs">
+      <Link>keyboard\frmMain.designer.cs</Link>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\SizeChange.cs">
+      <Link>keyboard\SizeChange.cs</Link>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\SystemSetting.cs">
+      <Link>keyboard\SystemSetting.cs</Link>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyEngQwe.cs">
+      <Link>keyboard\uclKeyEngQwe.cs</Link>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyEngQwe.designer.cs">
+      <Link>keyboard\uclKeyEngQwe.designer.cs</Link>
+      <DependentUpon>uclKeyEngQwe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyJpnAiu.cs">
+      <Link>keyboard\uclKeyJpnAiu.cs</Link>
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyJpnAiu.designer.cs">
+      <Link>keyboard\uclKeyJpnAiu.designer.cs</Link>
+      <DependentUpon>uclKeyJpnAiu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\ｃｌｓNotSelectable.cs">
+      <Link>keyboard\ｃｌｓNotSelectable.cs</Link>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Adjust\clsAdjustmentAppData.cs" />
+    <Compile Include="Adjust\clsAdjustFormInterface.cs" />
+    <Compile Include="Adjust\clsImageQue.cs" />
+    <Compile Include="Adjust\clsPosCalibration.cs" />
+    <Compile Include="Adjust\clsResCalibration.cs" />
+    <Compile Include="Adjust\clsResCalibration2.cs" />
+    <Compile Include="Adjust\clsXPosList.cs" />
+    <Compile Include="camera\HalconCameraGigEVision.cs" />
+    <Compile Include="camera\HalconCameraLinX.cs" />
+    <Compile Include="camera\HalconCameraSaperaLT.cs" />
+    <Compile Include="camera\clsConnectImage.cs" />
+    <Compile Include="System\SystemCounter.cs" />
+    <Compile Include="FormCameraTest\clsMainteFunc.cs" />
+    <Compile Include="FormCameraTest\frmCameraTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmCameraTest.Designer.cs">
+      <DependentUpon>frmCameraTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmPointMulti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmPointMulti.Designer.cs">
+      <DependentUpon>frmPointMulti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRectangle1Multi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRectangle1Multi.Designer.cs">
+      <DependentUpon>frmRectangle1Multi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiCircle.Designer.cs">
+      <DependentUpon>frmRoiCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiRectangle1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiRectangle1.Designer.cs">
+      <DependentUpon>frmRoiRectangle1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiRectangle2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmRoiRectangle2.Designer.cs">
+      <DependentUpon>frmRoiRectangle2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\frmThreshold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\frmThreshold.Designer.cs">
+      <DependentUpon>frmThreshold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\IHWinMulti.cs" />
+    <Compile Include="FormCameraTest\ProcessController.cs" />
+    <Compile Include="FormCameraTest\uclCameraControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\uclCameraControl.Designer.cs">
+      <DependentUpon>uclCameraControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\uclHWindowMulti.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\uclHWindowMulti.Designer.cs">
+      <DependentUpon>uclHWindowMulti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\uclLightControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FormCameraTest\uclLightControl.Designer.cs">
+      <DependentUpon>uclLightControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCameraTest\User.cs" />
+    <Compile Include="FormMain\frmImageMainParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmImageMainParam.Designer.cs">
+      <DependentUpon>frmImageMainParam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMisc\clsNUDTenkeyer.cs" />
+    <Compile Include="FormMisc\IMainFormEqu.cs" />
+    <Compile Include="FormMisc\UserSettingManager.cs" />
+    <Compile Include="FormMain\frmListSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmListSelect.designer.cs">
+      <DependentUpon>frmListSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPassword.Designer.cs">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmPatLite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmPatLite.Designer.cs">
+      <DependentUpon>frmPatLite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultActionDataClass\clsRirekiCount.cs" />
+    <Compile Include="FormMain\frmExternalOutputCancelDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmExternalOutputCancelDialog.Designer.cs">
+      <DependentUpon>frmExternalOutputCancelDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmRecipeExternalOutput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmRecipeExternalOutput.Designer.cs">
+      <DependentUpon>frmRecipeExternalOutput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmRecipeSpeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmRecipeSpeed.Designer.cs">
+      <DependentUpon>frmRecipeSpeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImageTool.cs" />
+    <Compile Include="SerialSpeedControl\Rs232cSerial.cs" />
+    <Compile Include="SpeedMonitor\clsNoInspectionSpeedMonitor.cs" />
+    <Compile Include="FormMain\frmDevelopmentSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmDevelopmentSetting.Designer.cs">
+      <DependentUpon>frmDevelopmentSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpeedMonitor\SpeedMonitor.cs" />
+    <Compile Include="Splashform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splashform.Designer.cs" />
+    <Compile Include="Splashform1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Splashform.resx</DependentUpon>
+    </Compile>
+    <Compile Include="System\AppData.cs" />
+    <Compile Include="AutoLight\clsAutoLightCalibration.cs" />
+    <Compile Include="AutoLight\clsAutoLightValueCalibration.cs" />
+    <Compile Include="AutoLight\frmAutoLightValueCalibration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoLight\frmAutoLightValueCalibration.designer.cs">
+      <DependentUpon>frmAutoLightValueCalibration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cameraAtugi\APCameraManager.cs" />
+    <Compile Include="DataClass\CameraParam.cs" />
+    <Compile Include="camera\CameraManager.cs" />
+    <Compile Include="camera\HalconCamera.cs" />
+    <Compile Include="camera\HalconCameraFile.cs" />
+    <Compile Include="camera\HalconCameraPylon.cs" />
+    <Compile Include="camera\SyncLiveCommand.cs" />
+    <Compile Include="Monitor\clsDinCountController.cs" />
+    <Compile Include="Monitor\clsDioCommandMonitor.cs" />
+    <Compile Include="Monitor\clsDioDelayController.cs" />
+    <Compile Include="Monitor\clsLengthMeasMonitor.cs" />
+    <Compile Include="SerialSpeedControl\SpeedController.cs" />
+    <Compile Include="UserControl\uclPatLiteOutPut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclPatLiteOutPut.Designer.cs">
+      <DependentUpon>uclPatLiteOutPut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclExtarnalOutput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclExtarnalOutput.Designer.cs">
+      <DependentUpon>uclExtarnalOutput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclKandoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclKandoControl.Designer.cs">
+      <DependentUpon>uclKandoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclImageMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclImageMain.Designer.cs">
+      <DependentUpon>uclImageMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclLightTimeReset.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclLightTimeReset.Designer.cs">
+      <DependentUpon>uclLightTimeReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclLightTimeLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclLightTimeLabel.Designer.cs">
+      <DependentUpon>uclLightTimeLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeLightControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeLightControl.Designer.cs">
+      <DependentUpon>uclRecipeLightControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeInspectWidth.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeInspectWidth.Designer.cs">
+      <DependentUpon>uclRecipeInspectWidth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\clsProgrammableExposure.cs" />
+    <Compile Include="FormMain\frmLightTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmLightTime.Designer.cs">
+      <DependentUpon>frmLightTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmWarningDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmWarningDialog.designer.cs">
+      <DependentUpon>frmWarningDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMisc\clsControlChangeChecker.cs" />
+    <Compile Include="FormMisc\clsControlHistory.cs" />
+    <Compile Include="FormMisc\clsControlSerialize.cs" />
+    <Compile Include="FormMisc\HWindowLayouter.cs" />
+    <Compile Include="FormMisc\IInspectionFormEqu.cs" />
+    <Compile Include="FormMisc\UserGUISetting.cs" />
+    <Compile Include="HalconMisc\HalconMisc.cs" />
+    <Compile Include="Utility\clsShutdown.cs" />
+    <Compile Include="Inspection\FormAutoInspSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\FormAutoInspSetting.designer.cs">
+      <DependentUpon>FormAutoInspSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmInspectionStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmInspectionStart.Designer.cs">
+      <DependentUpon>frmInspectionStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmNoInspectionDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmNoInspectionDialog.Designer.cs">
+      <DependentUpon>frmNoInspectionDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmSystemErrorDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmSystemErrorDialog.Designer.cs">
+      <DependentUpon>frmSystemErrorDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmTextEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmTextEdit.Designer.cs">
+      <DependentUpon>frmTextEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="misc\clsErrorMonitor.cs" />
+    <Compile Include="misc\clsFilebackup.cs" />
+    <Compile Include="Monitor\clsSignalControl.cs" />
+    <Compile Include="SpeedMonitor\clsSpeedMonitor.cs" />
+    <Compile Include="communication\Communication.cs" />
+    <Compile Include="communication\CommunicationDio.cs" />
+    <Compile Include="communication\CommunicationManager.cs" />
+    <Compile Include="communication\CommunicationNet.cs" />
+    <Compile Include="communication\CommunicationSio.cs" />
+    <Compile Include="dio\Dio.cs" />
+    <Compile Include="dio\IDio.cs" />
+    <Compile Include="dio\IFCDIO.cs" />
+    <Compile Include="FormMain\frmMessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmMessageForm.designer.cs">
+      <DependentUpon>frmMessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmMessageTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmMessageTimer.designer.cs">
+      <DependentUpon>frmMessageTimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmNg1Image.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmNg1Image.Designer.cs">
+      <DependentUpon>frmNg1Image.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmNgDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmNgDialog.Designer.cs">
+      <DependentUpon>frmNgDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\frmProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\frmProgressForm.designer.cs">
+      <DependentUpon>frmProgressForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="misc\IFormForceCancel.cs" />
+    <Compile Include="Inspection\AutoInspection.cs" />
+    <Compile Include="Inspection\CameraInfo.cs" />
+    <Compile Include="Inspection\EventMonitor.cs" />
+    <Compile Include="Inspection\FormAutoInspInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inspection\FormAutoInspInfo.designer.cs">
+      <DependentUpon>FormAutoInspInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inspection\ImageInspection.cs" />
+    <Compile Include="Inspection\ImageResultData.cs" />
+    <Compile Include="Inspection\IniAutoInspection.cs" />
+    <Compile Include="Inspection\LengthMeas.cs" />
+    <Compile Include="Inspection\QueuingAction.cs" />
+    <Compile Include="Inspection\QueuingImage.cs" />
+    <Compile Include="Inspection\RefreshImageEvent.cs" />
+    <Compile Include="Inspection\Utility.cs" />
+    <Compile Include="Inspection\UtilityImage.cs" />
+    <Compile Include="Inspection\WindowControl.cs" />
+    <Compile Include="Recipe\RecipeParameter.cs" />
+    <Compile Include="FormMain\SystemSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain\SystemSettingForm.Designer.cs">
+      <DependentUpon>SystemSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Light\LightControl.cs" />
+    <Compile Include="Light\LightControlDio.cs" />
+    <Compile Include="Light\LightControlManager.cs" />
+    <Compile Include="Light\LightControlNet.cs" />
+    <Compile Include="LogingDll.cs" />
+    <Compile Include="misc\clsHalconWindowControlLite.cs" />
+    <Compile Include="misc\clsShortcutManager.cs" />
+    <Compile Include="misc\clsTextboxKeypressMask.cs" />
+    <Compile Include="misc\clsThreadSafeFinish.cs" />
+    <Compile Include="misc\clsTrackbarWait.cs" />
+    <Compile Include="misc\IniFileAccess.cs" />
+    <Compile Include="misc\IniFileAccessMisc.cs" />
+    <Compile Include="misc\Misc.cs" />
+    <Compile Include="misc\SharedMemory.cs" />
+    <Compile Include="ProductTime\clsMeasPeriod.cs" />
+    <Compile Include="ProductTime\clsProductTime.cs" />
+    <Compile Include="ResultActionDataClass\ResActionData.cs" />
+    <Compile Include="ResultActionDataClass\ResultActionDataClass.cs" />
+    <Compile Include="DataClass\MapResultData.cs" />
+    <Compile Include="misc\ShortcutKeyHelper.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="misc\ShortcutKeyHelper.designer.cs">
+      <DependentUpon>ShortcutKeyHelper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\SystemContext.cs" />
+    <Compile Include="System\SystemStatus.cs" />
+    <Compile Include="Tenkey\frmTenkey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tenkey\frmTenkey.Designer.cs">
+      <DependentUpon>frmTenkey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tenkey\frmTenkeyDirect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tenkey\frmTenkeyDirect.Designer.cs">
+      <DependentUpon>frmTenkeyDirect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UPS\clsUpsMonitor.cs" />
+    <Compile Include="UPS\UpsController.cs" />
+    <Compile Include="UPS\UpsEvent.cs" />
+    <Compile Include="UPS\UpsServer.cs" />
+    <Compile Include="UserControl\uclNumericInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclNumericInput.Designer.cs">
+      <DependentUpon>uclNumericInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclNumericInputSmall.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclNumericInputSmall.Designer.cs">
+      <DependentUpon>uclNumericInputSmall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclOldList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclOldList.Designer.cs">
+      <DependentUpon>uclOldList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclNgList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclNgList.Designer.cs">
+      <DependentUpon>uclNgList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclNgThumbnail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclNgThumbnail.Designer.cs">
+      <DependentUpon>uclNgThumbnail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recipe\Recipe.cs" />
+    <Compile Include="UserControl\uclRecipeContents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeContents.Designer.cs">
+      <DependentUpon>uclRecipeContents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclRecipeList.Designer.cs">
+      <DependentUpon>uclRecipeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\SystemParam.cs" />
+    <Compile Include="UserControl\uclMiniImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclMiniImage.Designer.cs">
+      <DependentUpon>uclMiniImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclSystem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclSystem.Designer.cs">
+      <DependentUpon>uclSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclTotal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclTotal.Designer.cs">
+      <DependentUpon>uclTotal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl\uclSheetMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\uclSheetMap.designer.cs">
+      <DependentUpon>uclSheetMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\Utility.cs" />
+    <EmbeddedResource Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\frmMain.resx">
+      <Link>keyboard\frmMain.resx</Link>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyEngQwe.resx">
+      <Link>keyboard\uclKeyEngQwe.resx</Link>
+      <DependentUpon>uclKeyEngQwe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\ScreenKeyboard\ScreenKeyboard\Keyboard\uclKeyJpnAiu.resx">
+      <Link>keyboard\uclKeyJpnAiu.resx</Link>
+      <DependentUpon>uclKeyJpnAiu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoLight\frmAutoLightValueCalibration.resx">
+      <DependentUpon>frmAutoLightValueCalibration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmCameraTest.resx">
+      <DependentUpon>frmCameraTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmPointMulti.resx">
+      <DependentUpon>frmPointMulti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmRectangle1Multi.resx">
+      <DependentUpon>frmRectangle1Multi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmRoiCircle.resx">
+      <DependentUpon>frmRoiCircle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmRoiRectangle1.resx">
+      <DependentUpon>frmRoiRectangle1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmRoiRectangle2.resx">
+      <DependentUpon>frmRoiRectangle2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\frmThreshold.resx">
+      <DependentUpon>frmThreshold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\uclCameraControl.resx">
+      <DependentUpon>uclCameraControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\uclHWindowMulti.resx">
+      <DependentUpon>uclHWindowMulti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCameraTest\uclLightControl.resx">
+      <DependentUpon>uclLightControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmDevelopmentSetting.resx">
+      <DependentUpon>frmDevelopmentSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmImageMainParam.resx">
+      <DependentUpon>frmImageMainParam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmLightTime.resx">
+      <DependentUpon>frmLightTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmExternalOutputCancelDialog.resx">
+      <DependentUpon>frmExternalOutputCancelDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmPatLite.resx">
+      <DependentUpon>frmPatLite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmRecipeExternalOutput.resx">
+      <DependentUpon>frmRecipeExternalOutput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmRecipeSpeed.resx">
+      <DependentUpon>frmRecipeSpeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmWarningDialog.resx">
+      <DependentUpon>frmWarningDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmListSelect.resx">
+      <DependentUpon>frmListSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPassword.resx">
+      <DependentUpon>frmPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\FormAutoInspSetting.resx">
+      <DependentUpon>FormAutoInspSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmInspectionStart.resx">
+      <DependentUpon>frmInspectionStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmMessageForm.resx">
+      <DependentUpon>frmMessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmMessageTimer.resx">
+      <DependentUpon>frmMessageTimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmNg1Image.resx">
+      <DependentUpon>frmNg1Image.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmNgDialog.resx">
+      <DependentUpon>frmNgDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmNoInspectionDialog.resx">
+      <DependentUpon>frmNoInspectionDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmProgressForm.resx">
+      <DependentUpon>frmProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmSystemErrorDialog.resx">
+      <DependentUpon>frmSystemErrorDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\frmTextEdit.resx">
+      <DependentUpon>frmTextEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain\SystemSettingForm.resx">
+      <DependentUpon>SystemSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inspection\FormAutoInspInfo.resx">
+      <DependentUpon>FormAutoInspInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splashform.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Splashform1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tenkey\frmTenkey.resx">
+      <DependentUpon>frmTenkey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tenkey\frmTenkeyDirect.resx">
+      <DependentUpon>frmTenkeyDirect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclPatLiteOutPut.resx">
+      <DependentUpon>uclPatLiteOutPut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclExtarnalOutput.resx">
+      <DependentUpon>uclExtarnalOutput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclKandoControl.resx">
+      <DependentUpon>uclKandoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclImageMain.resx">
+      <DependentUpon>uclImageMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclLightTimeReset.resx">
+      <DependentUpon>uclLightTimeReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclLightTimeLabel.resx">
+      <DependentUpon>uclLightTimeLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclNgList.resx">
+      <DependentUpon>uclNgList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclNgThumbnail.resx">
+      <DependentUpon>uclNgThumbnail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControl\uclNumericInput.resx">
+      <DependentUpon>uclNumericInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclNumericInputSmall.resx">
+      <DependentUpon>uclNumericInputSmall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclOldList.resx">
+      <DependentUpon>uclOldList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclRecipeContents.resx">
+      <DependentUpon>uclRecipeContents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclRecipeInspectWidth.resx">
+      <DependentUpon>uclRecipeInspectWidth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclRecipeLightControl.resx">
+      <DependentUpon>uclRecipeLightControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclRecipeList.resx">
+      <DependentUpon>uclRecipeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclMiniImage.resx">
+      <DependentUpon>uclMiniImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclSystem.resx">
+      <DependentUpon>uclSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclTotal.resx">
+      <DependentUpon>uclTotal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl\uclSheetMap.resx">
+      <DependentUpon>uclSheetMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 および x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows インストーラー 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoadingImage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FdSheet.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FormAdjust\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

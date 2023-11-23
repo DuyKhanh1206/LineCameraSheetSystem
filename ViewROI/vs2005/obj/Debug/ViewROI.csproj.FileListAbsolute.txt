@@ -1,0 +1,389 @@
+C:\SheetControl\exe\ViewROI.dll
+C:\SheetControl\exe\ViewROI.pdb
+C:\LineCameraSheetSystem\exe\ViewROI.dll
+C:\LineCameraSheetSystem\exe\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1000\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1000\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1000\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1000\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1000\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\LineCameraSheetSystem_V1001\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\LineCameraSheetSystem_V1001\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1001\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1001\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1001\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1002\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1002\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1002\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1002\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1002\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\IG-TRAY03\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1003\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1005\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1005\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1005\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1006\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1006\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1006\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1008\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1008\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1008\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1009\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1009\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1011\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1011\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\LineCameraSheetSystem_V1011\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\Program\LineCameraSheetSystem_V1011\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\Program\LineCameraSheetSystem_V1011\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1013\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1013\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1013\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1017\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1017\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1017\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1020\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1020\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1021\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1021\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1021\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1022\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1022\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1022\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1026\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1026\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1026\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027 - コピー\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027 - コピー\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1027 - コピー\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1028\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1028\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1028\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1029\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1029\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1030\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1030\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1030\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1032\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1032\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1032\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1036\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1036\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1036\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1037\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_シート検査\LineCameraSheetSystem_V1037\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1060\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1060\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1060\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1064\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1064\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1064\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1065\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1065\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1066\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1066\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1072\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1072\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1072\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1076\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1076\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1076\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1080\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1080\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1080\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTEST\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTEST\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTEST\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTESTgige\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTESTgige\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1082_colorTESTgige\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1086\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1086\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1086\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1088\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1088\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1089\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1089\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1090\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1090\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1091\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1091\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1091\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1092\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1092\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1093\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1093\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1096\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1096\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1096\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1098\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1098\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1098\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1099\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1099\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1099\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1099\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1099\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1101\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1101\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1101\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1103\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1103\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1103\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1106\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1106\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1107\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1107\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1107\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1108\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1108\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1108\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1109\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1110\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1110\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1111\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1111\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1111\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1112\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1112\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1113\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1113\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1115\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1115\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1116\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1116\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1116\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1117\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1117\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2010\Projects\fujita_麺帯\LineCameraSheetSystem_V1117\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1117\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1117\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1118\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1118\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1201\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1201\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1202\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1202\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1202\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1203\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1203\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1203\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1205\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1205\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1207\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1207\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1207\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1208\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1208\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1208\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1209\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1209\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1210\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1210\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1210\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1213\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1215\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1215\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1215\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1217\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1217\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1217\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1221\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1221\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1221\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1222\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1222\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1222\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1228\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1228\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1228\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1230\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1230\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1230\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1232\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1232\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1233\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1233\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1235\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1235\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1236\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1236\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1238\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1238\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1238\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1250\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1250\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1250\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1251\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1251\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1251\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1253\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1253\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1253\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1256\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1256\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1256\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1257\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1257\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1258\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1258\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\LineCameraSheetSystem_V1258\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\Program\LineCameraSheetSystem_V1258\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\LineCameraSheetSystem_V1259\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\Program\LineCameraSheetSystem_V1259\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\LineCameraSheetSystem_V1260\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\Program\LineCameraSheetSystem_V1260\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\LineCameraSheetSystem_V1260\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1262\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1262\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1262\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1263\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1263\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1263\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1263\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1265\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1265\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1265\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1266\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1266\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1266\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1267\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1267\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1267\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1268\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1268\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1269\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1269\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1270\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1270\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1271\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1271\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1271\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1273\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1273\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1273\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheetSystem_V1273\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1273\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1278\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1278\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1277_socketConnectリトライ\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1277_socketConnectリトライ\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1279\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1279\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujita_麺帯\LineCameraSheetSystem_V1279\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1282\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1282\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1283\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1283\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1283\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1286\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1286\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1287\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1287\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1288\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1288\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1288\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1289\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1289\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1290\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1290\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1290\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1291\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1291\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\program\LineCameraSheetSystem_V1293\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\program\LineCameraSheetSystem_V1293\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\program\LineCameraSheetSystem_V1293\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\program\LineCameraSheetSystem_V1295\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\program\LineCameraSheetSystem_V1295\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\program\LineCameraSheetSystem_V1295\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1296\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1296\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1296\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1297\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1297\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1297\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1298\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1298\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1298\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1299\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1299\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1299\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1301\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1301\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1301\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1305\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1305\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheet\LineCameraSheetSystem_V1305\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\LineCameraSheetSystem_V1306\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\LineCameraSheetSystem_V1306\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1307\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1307\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1307\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1308\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1308\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1308\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1309\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1309\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1309\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1309\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1311\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1311\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1311\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fdev\Program\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\fdev\Program\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\fdev\Program\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\fdev\Program\fujitaSheet\LineCameraSheetSystem_V1315\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1318\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1318\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1318\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1318\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.csprojAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1319\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1320\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1320\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1320\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1320\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1321\ViewROI\vs2005\obj\Debug\ViewROI.csprojAssemblyReference.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1321\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1321\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1321\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1321\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1324\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1324\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1324\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\fujitaSheet\exe\ViewROI.dll
+C:\fujitaSheet\exe\ViewROI.pdb
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1329\ViewROI\vs2005\obj\Debug\ViewROI.csprojResolveAssemblyReference.cache
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1329\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\n-yuasa\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1329\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1339\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CoreCompileInputs.cache
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1339\ViewROI\vs2005\obj\Debug\ViewROI.csproj.CopyComplete
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1339\ViewROI\vs2005\obj\Debug\ViewROI.dll
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1339\ViewROI\vs2005\obj\Debug\ViewROI.pdb
+C:\Users\a-kawai\Documents\Visual Studio 2015\Projects\fujitaSheet\LineCameraSheetSystem_V1339\ViewROI\vs2005\obj\Debug\ViewROI.csproj.AssemblyReference.cache

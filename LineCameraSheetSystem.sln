@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineCameraSheetSystem", "LineCameraSheetSystem\LineCameraSheetSystem.csproj", "{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewROI", "ViewROI\vs2005\ViewROI.csproj", "{C4F5C5DE-7EA8-47FE-8218-48138F48965F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenKeyboard", "ScreenKeyboard\ScreenKeyboard\ScreenKeyboard.csproj", "{74B918A1-9477-4C0D-8FE4-C7696EC60116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Debug|x86.ActiveCfg = Debug|x86
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Debug|x86.Build.0 = Debug|x86
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Release|x86.ActiveCfg = Release|x86
+		{A54DD5EB-9A12-4C22-B55C-0055FFBA0F73}.Release|x86.Build.0 = Release|x86
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C4F5C5DE-7EA8-47FE-8218-48138F48965F}.Release|x86.Build.0 = Release|Any CPU
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Debug|Any CPU.Build.0 = Debug|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Debug|x86.ActiveCfg = Debug|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Debug|x86.Build.0 = Debug|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Release|Any CPU.ActiveCfg = Release|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Release|x86.ActiveCfg = Release|x86
+		{74B918A1-9477-4C0D-8FE4-C7696EC60116}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

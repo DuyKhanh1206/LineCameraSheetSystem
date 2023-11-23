@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ViewROI">
+</Property><Property Name="ソリューション ファイル" Value="C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\ViewROI.sln">
+</Property><Property Name="Date" Value="2011年10月7日">
+</Property><Property Name="Time" Value="16:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ViewROI.sln" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ViewROI.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="ViewROI.csproj" Description="プロジェクト ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ViewROI.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\AssemblyInfo.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\AssemblyInfo.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\AssemblyInfo.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\FunctionPlot.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\FunctionPlot.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\FunctionPlot.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\FunctionPlot.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\GraphicsContext.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\GraphicsContext.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\GraphicsContext.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\GraphicsContext.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\HObjectEntry.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\HObjectEntry.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\HObjectEntry.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\HObjectEntry.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\HWndCtrl.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\HWndCtrl.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\HWndCtrl.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\HWndCtrl.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROI.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROI.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROI.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROI.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROICircle.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROICircle.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROICircle.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROICircle.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROICircularArc.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROICircularArc.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROICircularArc.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROICircularArc.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROIController.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIController.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROIController.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIController.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROILine.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROILine.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROILine.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROILine.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROIRectangle1.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIRectangle1.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROIRectangle1.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIRectangle1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="..\source\ROIRectangle2.cs" Description="バックアップされたプロジェクトはビルドしない可能性があります。プロジェクトはリンク ファイル C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIRectangle2.cs を含んでいます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="..\source\ROIRectangle2.cs" Description="ファイルは正常に C:\Program Files\MVTec\HALCON-10.0\examples\codelets\base\ViewROI\vs2005\Backup\ROIRectangle2.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="ViewROI" Source="ViewROI.csproj" Description="このプロジェクトは .NET Framework 2.0 または 3.0 に対応しています。プロジェクトで新しい .NET Framework を必要とするアセンブリを使用すると、ビルドに失敗します。[プロジェクト] メニューの [プロパティ] をクリックし、[.NET Framework] ボックスの一覧で新しいバージョンを選択することにより、.NET Framework のバージョンを変更できます。Visual Basic では、これは [コンパイル] タブの [詳細コンパイラ オプション] ボタンをクリックすると表示されます。">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="ViewROI.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="ViewROI" Source="ViewROI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ViewROI.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="ViewROI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ViewROI" Source="ViewROI.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
